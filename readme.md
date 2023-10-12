@@ -1,6 +1,6 @@
 Prueba Tecnica Logroo+
 
-Tener en cuenta, para ejecutar el proyecto hay que tener dos consolas en simultaneo abierto, y tambien, la base de datos fue creada directamente con MongoDB, el cual tener previamente instalado.
+Tener en cuenta, para ejecutar el proyecto hay que tener dos consolas en simultaneo abierto, y tambien, la base de datos fue creada directamente con MongoDB, el cual tener previamente instalado, tener en cuenta que los proyectos deben ser ubicados en la misma carpeta para el correcto funcionamiento.
 
 Primero iniciamos con la ejecucion del proyecto del lado del back-end, abres una consola de comando y ejecutas el comando -> npm install para instalar las dependecias utilizadas, luego ejecutas el comando -> npm start para arrancar el back-end
 
